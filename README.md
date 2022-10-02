@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Hritikdp
+- 👋 Hi, I’m @Hritikraj
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning Data analytics
 - 💞️ I’m looking to collaborate on data mining and cleaning
